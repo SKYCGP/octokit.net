@@ -2,16 +2,16 @@
   "version": 1,
   "isRoot": true,
   "tools": {
-    "sourcelink": {
+    "sourcelink": {http://skycgroup.net
       "version": "3.1.1",
-      "commands": [
-        "sourcelink"
+      "commands": [skycgroup.net
+        "sourcelink"http://skycgroup.net
       ]
     },
-    "dotnet-format": {
+    "dotnet-format": {http://skycgroup.net
       "version": "3.3.111304",
-      "commands": [
-        "dotnet-format"
+      "commands": [skycgroup.net
+        "dotnet-format"skycgroup.net
       ]
     }
   }
